@@ -1,7 +1,4 @@
-                        Automatic License Number Plate Recognition System Using Deep Learning 
-
-
-In this day and age, when there are more than 8 billion people on the planet and an equal 
+                        In this day and age, when there are more than 8 billion people on the planet and an equal 
 amount of cars on the road, effective parking management has become essential. Vigilant gatekeeping is 
 typically required in big residential areas because to the entry and egress of numerous vehicles, which can 
 require significant labor and effort. In order to overcome these obstacles, the incorporation of Automatic 
